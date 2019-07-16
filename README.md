@@ -4,7 +4,7 @@
 
 ## Intro
 
-This repo holds the source code for the Facebook bot [*EmojiBot 101*][https://www.facebook.com/emojibot101]
+This repo holds the source code for the Facebook bot [*EmojiBot 101*](https://www.facebook.com/emojibot101)
 
 ## Emojis
 
