@@ -12,7 +12,6 @@ This repo holds the source code for the Facebook bot [*EmojiBot 101*][https://ww
 
 ----
 
-[][https://andithemudkip.now.sh]
 
-[Check out more stuff on my website][https://andithemudkip.now.sh]
+[Check out more stuff on my website](https://andithemudkip.now.sh)
 
