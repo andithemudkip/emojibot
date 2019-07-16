@@ -1,0 +1,6 @@
+{
+    "version": 1,
+    "env": {
+        "FB_TOKEN": "@the-secret-name"
+    }
+}

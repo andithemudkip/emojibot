@@ -1,0 +1,20 @@
+{
+  "name": "emojibot-2.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["facebook", "bot", "emoji"],
+  "author": "AndiTheMudkip",
+  "license": "ISC",
+  "dependencies": {
+    "bot-util": "0.0.8",
+    "emoji.json": "^11.0.1",
+    "express": "^4.16.4",
+    "jimp": "^0.6.1",
+    "string-similarity": "^3.0.0"
+  },
+  "devDependencies": {},
+  "description": "A Facebook Bot That Posts Random Emojis Every Hour"
+}
