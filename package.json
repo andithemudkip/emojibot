@@ -11,7 +11,7 @@
   "dependencies": {
     "bot-util": "0.0.8",
     "emoji.json": "^11.0.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "jimp": "^0.6.1",
     "string-similarity": "^3.0.0"
   },
